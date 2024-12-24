@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   _strTestString = "";
-  title = 'Welcome to Angular Sunny Champ';
+  title = 'Welcome to Angular Sunny Champ..1';
   intNum = 100;
   getValue(paramStrVal:any) {
     return paramStrVal;
